@@ -1,4 +1,4 @@
-# Jesse Pisel, Data Scientist
+# Jesse Pisel PhD, P.Geo, Data Scientist
 [![Twitter Badge](https://img.shields.io/twitter/follow/geologyjesse?color=9cf&logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/geologyjesse)
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=9cf)](https://www.linkedin.com/in/jesse-pisel-70519430/)
 
