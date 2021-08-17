@@ -15,6 +15,7 @@ I contribute to open source as often as I can and encourage all my students to c
 [![geostatspy](https://github-readme-stats.vercel.app/api/pin/?username=geostatsguy&repo=geostatspy&show_owner=true)](https://github.com/GeostatsGuy/geostatspy)
 
 ## Research
+[![2021 FRI Fellows](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=2021_summer_fellows&show_owner=true)](https://github.com/FRI-Energy-Analytics/2021_summer_fellows)
 [![2020 FRI Fellows](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=2020_summer_fellows&show_owner=true)](https://github.com/FRI-Energy-Analytics/2020_summer_fellows)
 [![matrix factorization](https://github-readme-stats.vercel.app/api/pin/?username=jessepisel&repo=matrixfactorization&show_owner=true)](https://github.com/jessepisel/matrixfactorization)
 [![stratal-geometries](https://github-readme-stats.vercel.app/api/pin/?username=jessepisel&repo=stratal-geometries&show_owner=true)](https://github.com/jessepisel/stratal-geometries)
