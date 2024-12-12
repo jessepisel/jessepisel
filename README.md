@@ -15,6 +15,7 @@ I contribute to open source as often as I can and encourage everyone to contribu
 
 ## Research
 [![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=false)](https://github.com/thinkonward/geophysical-foundation-model)
+[![SectionSeeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false)](https://github.com/thinkonward/section-seeker)
 [![2021 FRI Fellows](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=2021_summer_fellows&show_owner=false)](https://github.com/FRI-Energy-Analytics/2021_summer_fellows)
 [![2020 FRI Fellows](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=2020_summer_fellows&show_owner=false)](https://github.com/FRI-Energy-Analytics/2020_summer_fellows)
 [![matrix factorization](https://github-readme-stats.vercel.app/api/pin/?username=jessepisel&repo=matrixfactorization&show_owner=false)](https://github.com/jessepisel/matrixfactorization)
