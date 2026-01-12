@@ -4,8 +4,6 @@ I build AI systems that power the world around us. My teams research application
 
 I contribute to open source as often as I can and encourage everyone to contribute as well.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessepisel)](https://github.com/anuraghazra/github-readme-stats)
-
 # Projects
 ## Packages
 [![alaska](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=alaska&show_owner=false)](https://github.com/FRI-Energy-Analytics/alaska)
