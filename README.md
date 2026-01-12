@@ -2,8 +2,6 @@
 
 I build AI systems that power the world around us. My teams research applications of generative AI, reinforcement learning for the energy transition, matrix factorization, neural architecture search, large language models, vision transformers and other data science projects. Specialties include: geospatial data analysis, visualization, modeling, statistical modeling, remote sensing and signal processing.
 
-I contribute to open source as often as I can and encourage everyone to contribute as well.
-
 # Projects
 ## Packages
 [![alaska](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=alaska&show_owner=false)](https://github.com/FRI-Energy-Analytics/alaska)
