@@ -21,5 +21,4 @@ I contribute to open source as often as I can and encourage everyone to contribu
 
 ## Teaching
 [![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=true)](https://github.com/thinkonward/challenges)
-[![5minutesofpython](https://github-readme-stats.vercel.app/api/pin/?username=jessepisel&repo=5minutesofpython&show_owner=false)](https://github.com/jessepisel/5minutesofpython)
 [![energyanalytics](https://github-readme-stats.vercel.app/api/pin/?username=FRI-Energy-Analytics&repo=energyanalytics&show_owner=false)](https://github.com/FRI-Energy-Analytics/energyanalytics)
