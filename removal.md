@@ -1,1 +1,0 @@
-This is verification for removal from archive.org
